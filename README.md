@@ -1,6 +1,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MyWifeAsuna&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 
+My English is not very good.
+私も日本語が下手で。  
+所以请务必让我用中文叨逼叨。  
+
 我曾在写博客的时候想起且写下这样的话。  
 - [《如果从梦中醒来，你还在做自己喜欢的事情》](http://mywifeasuna.top/index.php/archives/84/)  
 
