@@ -7,7 +7,7 @@ My English is not very good.
 
 我曾在写博客的时候想起且写下这样的话。  
 - [《如果从梦中醒来，你还在做自己喜欢的事情》](http://mywifeasuna.top/index.php/archives/84/)  
-<img src="https://i.loli.net/2020/10/27/cWNlt6VSUAX5rwj.png" alt="支付宝收钱" align="right"" />  
+<img src="https://i.loli.net/2020/10/27/cWNlt6VSUAX5rwj.png" alt="支付宝收钱" align="right" />  
 编写这篇简介的时候，我肯定没有什么能拿出来的内容。  
 但我希望，可以先认识我。  
 
