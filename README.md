@@ -16,7 +16,7 @@
 
 ### I'm kirito(MyWifeAsuna), or you can call me xiaoqin(小秦)
 #### Language
-[![](https://img.shields.io/badge/-JAVA-RED?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/) [![](https://img.shields.io/badge/-C%2FC%2B%2B-blue)](http://gcc.gnu.org/) [![](https://img.shields.io/badge/-Python-9cf)](https://www.python.org/) [![](https://img.shields.io/badge/-More-ightgreen)](https://baike.baidu.com/item/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80/61826?fr=aladdin)
+[![](https://img.shields.io/badge/-JAVA-red?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/) [![](https://img.shields.io/badge/-C%2FC%2B%2B-blue)](http://gcc.gnu.org/) [![](https://img.shields.io/badge/-Python-9cf)](https://www.python.org/) [![](https://img.shields.io/badge/-More-ightgreen)](https://baike.baidu.com/item/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80/61826?fr=aladdin)
 #### Platform
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 #### IDE
