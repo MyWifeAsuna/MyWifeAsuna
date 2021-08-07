@@ -34,5 +34,5 @@
 商务合作或者其余问题，可自行查看以下内容考虑  
 另还会以下Tools，以及各种专业知识  
 
-[![](https://img.shields.io/badge/Adobe-Photoshop-2376bc?style=flat-square&logo=adobephotoshop&logoColor=ffffff)](https://www.adobe.com/products/photoshop.html) 
+[![](https://img.shields.io/badge/Adobe-Photoshop-2376bc?style=flat-square&logo=adobephotoshop&logoColor=ffffff)](https://www.adobe.com/products/photoshop.html) [![](https://img.shields.io/badge/Adobe-Premiere%20Pro-2376bc?style=flat-square&logo=adobephotoshop&logoColor=ffffff)](https://www.adobe.com/products/premiere.html) 
 
