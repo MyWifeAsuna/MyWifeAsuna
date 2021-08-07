@@ -8,7 +8,7 @@ My English is not very good.
 我曾在写博客的时候想起且写下这样的话。  
 - [《如果从梦中醒来，你还在做自己喜欢的事情》](http://mywifeasuna.top/index.php/archives/84/)  
 
-<style>img{transition:all 0.6s;} img:hover{transform: scale(3);}</style><img src="https://i.loli.net/2020/10/27/Cqjrm8ifu1LNPhz.png" title="如果我有什么项目，或者那篇文章帮助到了你，请不用客气直接喂饱我" alt="微信收钱" align="right" />  
+<style>img{transition:all 0.6s;} img:hover{transform: scale(3);}</style><div><img src="https://i.loli.net/2020/10/27/Cqjrm8ifu1LNPhz.png" title="如果我有什么项目，或者那篇文章帮助到了你，请不用客气直接喂饱我" alt="微信收钱" align="right" /></div>  
 
 编写这篇简介的时候，我肯定没有什么能拿出来的内容。  
 但我希望，可以先认识我。  
