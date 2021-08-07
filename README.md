@@ -44,4 +44,4 @@ My English is not very good.
 你问我会不会Markdown？我TM开泥头车怼死你。
 
 一般情况下肯定是PC在线，主机交流以及游戏好友请想办法联系到我询问好友位，在这里我就不发ID了
-[![](https://img.shields.io/badge/Nintendo-Switch-ff0000?style=flat-square&logo=nintendoswitch&logoColor=ffffff)](https://www.nintendo.co.jp/) [![](https://img.shields.io/badge/Sony Computer Entertainment-Play Station 1 2 3 4 5 Vita-ff0000?style=flat-square&logo=playstation&logoColor=ffffff)](https://www.playstation.com/ja-jp)
+[![](https://img.shields.io/badge/Nintendo-Switch-ff0000?style=flat-square&logo=nintendoswitch&logoColor=ffffff)](https://www.nintendo.co.jp/) [![](https://img.shields.io/badge/Sony%20Computer%20Entertainment-Play%20Station%201%202%203%204%205%20Vita-ff0000?style=flat-square&logo=playstation&logoColor=ffffff)](https://www.playstation.com/ja-jp)
