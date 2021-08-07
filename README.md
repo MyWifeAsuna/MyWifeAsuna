@@ -25,3 +25,12 @@
 
 ###### 其他信息见文档末
 ![](https://i.loli.net/2020/10/27/LXqMWHC9Aal5K7x.jpg)
+
+### 联系方式及其他
+我已经说明的很足了，其他信息可在我的blog查看，或者从以下B站链接碰机遇逮我
+[![](https://img.shields.io/badge/Linux-CentOS-2376bc?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linux.org/)
+商务合作或者其余问题，可自行查看以下内容想办法考虑
+另还会以下Tools，以及各种专业知识
+
+[![](https://img.shields.io/badge/Adobe-Photoshop-2376bc?style=flat-square&logo=adobephotoshop&logoColor=ffffff)](https://www.adobe.com/products/photoshop.html) 
+
