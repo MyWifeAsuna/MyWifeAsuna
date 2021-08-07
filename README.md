@@ -18,7 +18,7 @@
 #### Language
 [![](https://img.shields.io/badge/-JAVA-red?style=flat&logo=java&logoColor=ffffff)](https://www.java.com/) [![](https://img.shields.io/badge/-C%2FC%2B%2B-blue?style=flat&logo=c%2B%2B&logoColor=ffffff)](http://gcc.gnu.org/) [![](https://img.shields.io/badge/-Python-9cf?style=flat&logo=python&logoColor=ffffff)](https://www.python.org/) [![](https://img.shields.io/badge/-More-ightgreen?style=flat)](https://baike.baidu.com/item/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/9845131?fr=aladdin)
 #### Platform
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10) [![](https://img.shields.io/badge/Linux-CentOS-2376bc?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linux.org/)
+[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10) [![](https://img.shields.io/badge/Linux-CentOS-2376bc?style=flat-square&logo=linux&logoColor=ffffff)](https://www.centos.org/)
 #### IDE
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?style=flat-square&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
  [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/IDE-Visual%20Studio%202019-blue?style=flat-square&logo=visualstudio&logoColor=ffffff)](https://visualstudio.microsoft.com/zh-hans/vs/)
@@ -28,8 +28,8 @@
 
 ### 联系方式及其他
 我已经说明的很足了，其他信息可在我的blog查看，或者从以下B站链接碰机遇逮我  
-[![](https://img.shields.io/badge/哔哩哔哩-超级小秦-blue?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/38080207)
-商务合作或者其余问题，可自行查看以下内容想办法考虑  
+[![](https://img.shields.io/badge/哔哩哔哩-超级小秦-blue?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/38080207)  
+商务合作或者其余问题，可自行查看以下内容考虑  
 另还会以下Tools，以及各种专业知识  
 
 [![](https://img.shields.io/badge/Adobe-Photoshop-2376bc?style=flat-square&logo=adobephotoshop&logoColor=ffffff)](https://www.adobe.com/products/photoshop.html) 
