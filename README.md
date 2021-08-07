@@ -28,7 +28,9 @@
 
 ### 联系方式及其他
 我已经说明的很足了，其他信息可在我的blog查看，或者从以下B站链接碰机遇逮我  
+
 [![](https://img.shields.io/badge/哔哩哔哩-超级小秦-blue?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/38080207)  
+
 商务合作或者其余问题，可自行查看以下内容考虑  
 另还会以下Tools，以及各种专业知识  
 
