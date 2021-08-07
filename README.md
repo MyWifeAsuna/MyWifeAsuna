@@ -30,7 +30,7 @@ My English is not very good.
  [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/IDE-Visual%20Studio%202019-blue?style=flat-square&logo=visualstudio&logoColor=ffffff)](https://visualstudio.microsoft.com/zh-hans/vs/)
 
 ###### 其他信息见文档末
-![](https://i.loli.net/2020/10/27/LXqMWHC9Aal5K7x.jpg)
+![test](https://i.loli.net/2020/10/27/LXqMWHC9Aal5K7x.jpg)
 
 ### 联系方式及其他
 我已经说明的很足了，其他信息可在我的blog查看，或者从以下B站链接碰机遇逮我  
