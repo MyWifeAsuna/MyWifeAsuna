@@ -1,5 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MyWifeAsuna&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
-<img src="https://i.loli.net/2020/10/27/cWNlt6VSUAX5rwj.png" alt="支付宝收钱.png"></a>
+<img src="https://i.loli.net/2020/10/27/cWNlt6VSUAX5rwj.png" alt="支付宝收钱.png">
 
 My English is not very good.  
 私も日本語が下手で。  
