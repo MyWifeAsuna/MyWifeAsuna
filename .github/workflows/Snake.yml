@@ -26,8 +26,8 @@ jobs:
           history: false
 
 # 没有热力就摁造 懂的都懂
-#      - name: Push to GitHub
-#        uses: EndBug/add-and-commit@v7.2.1
-#        with:
-#          branch: main
-#          message: 'Generate Contribution Snake'
+     - name: Push to GitHub
+       uses: EndBug/add-and-commit@v7.2.1
+       with:
+         branch: main
+         message: 'Generate Contribution Snake'
