@@ -23,10 +23,11 @@ jobs:
           message: Snack
           branch: snack
           dir: snack
-          history: false
+          history: true
 
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
-        with:
-          branch: main
-          message: 'Generate Contribution Snake'
+# 没有热力就摁造 懂的都懂
+#      - name: Push to GitHub
+#        uses: EndBug/add-and-commit@v7.2.1
+#        with:
+#          branch: main
+#          message: 'Generate Contribution Snake'
