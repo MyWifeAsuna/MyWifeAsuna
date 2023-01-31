@@ -24,9 +24,3 @@ jobs:
           branch: snack
           dir: snack
           history: false
-
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
-        with:
-          branch: main
-          message: 'Generate Contribution Snake'
