@@ -1,6 +1,6 @@
 # 热力图贪吃蛇，那没有热力吃什么？
 
-name: Snake
+name: Generate Snake
 
 on:
   schedule:
@@ -8,14 +8,14 @@ on:
   workflow_dispatch:
 
 jobs:
-  snake:
+  build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
         uses: actions/checkout@v2.3.4
       
-      - name: Snake
+      - name: Generate Snake
         uses: Platane/snk@master
         id: snake-gif
         with:
