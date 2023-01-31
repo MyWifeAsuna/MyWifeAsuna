@@ -1,5 +1,4 @@
 # 热力图贪吃蛇，那没有热力吃什么？
-
 name: Generate Snake
 
 on:
@@ -20,8 +19,14 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: ./snake/github-contribution-grid-snake.gif
-          svg_out_path: ./snake/github-contribution-grid-snake.svg
+          gif_out_path: ./assets/github-contribution-grid-snake.gif
+          svg_out_path: ./assets/github-contribution-grid-snake.svg
+
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v7.2.1
+        with:
+          branch: main
+          message: 'Generate Contribution Snake'
 
 # 没有热力那就每日自动来一下 懂的都懂
 #      - name: Push to GitHub
