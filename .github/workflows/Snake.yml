@@ -23,7 +23,7 @@ jobs:
           message: Snack
           branch: snack
           dir: snack
-          history: true
+          history: false
 
 # 没有热力就摁造 懂的都懂
 #      - name: Push to GitHub
