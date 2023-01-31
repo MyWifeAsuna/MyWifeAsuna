@@ -22,7 +22,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           gif_out_path: ./snake/github-contribution-grid-snake.gif
           svg_out_path: ./snake/github-contribution-grid-snake.svg
-          svg_dark_out_path: ./snake/github-snake-dark.svg?palette=github-dark
 
 # 没有热力那就每日自动来一下 懂的都懂
 #      - name: Push to GitHub
