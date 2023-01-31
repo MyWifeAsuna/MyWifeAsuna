@@ -25,9 +25,8 @@ jobs:
           dir: snack
           history: false
 
-# 没有热力那就每日自动来一下 懂的都懂
-#      - name: Push to GitHub
-#        uses: EndBug/add-and-commit@v7.2.1
-#        with:
-#          branch: main
-#          message: 'Generate Contribution Snake'
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v7.2.1
+        with:
+          branch: main
+          message: 'Generate Contribution Snake'
