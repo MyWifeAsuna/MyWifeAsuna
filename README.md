@@ -6,7 +6,7 @@ My English is not very good.
 
 #
 
-<img src="https://raw.githubusercontent.com/MyWifeAsuna/MyWifeAsuna/main/88050672_p0_master1200.jpg" title="我老婆，就是放出来看一看，做个分割线，美化一下，没别的意思" alt="Rin" />  
+<img src="https://raw.githubusercontent.com/MyWifeAsuna/MyWifeAsuna/main/88050672_p0_master1200.jpg" height="600px" title="我老婆，就是放出来看一看，做个分割线，美化一下，没别的意思" alt="Rin" />  
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/MyWifeAsuna/MyWifeAsuna/snack/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/MyWifeAsuna/MyWifeAsuna/snack/github-snake-dark.svg#gh-dark-mode-only)
