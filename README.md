@@ -1,12 +1,29 @@
-<img src="https://github-readme-stats.vercel.app/api?username=MyWifeAsuna&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
-
+<img src="https://count.getloli.com/get/@MyWifeAsuna?theme=moebooru" alt="logo" align="right">
 
 My English is not very good.  
 私も日本語が下手で。  
 所以请务必让我用中文叨逼叨。  
 
+#
+
+<img src="https://raw.githubusercontent.com/MyWifeAsuna/MyWifeAsuna/main/88050672_p0_master1200.jpg" title="我老婆，就是放出来看一看，做个分割线，美化一下，没别的意思" alt="Rin" />  
+
 ![GitHub Snake Light](https://raw.githubusercontent.com/MyWifeAsuna/MyWifeAsuna/snack/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/MyWifeAsuna/MyWifeAsuna/snack/github-snake-dark.svg#gh-dark-mode-only)
+
+### My GitHub Stats
+<a href="https://github.com/MyWifeAsuna">
+  <table>
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=MyWifeAsuna&show_icons=true&hide_border=true&icon_color=ff9900&title_color=cc00ff" />
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyWifeAsuna&layout=compact&hide_border=true&title_color=cc00ff" />
+      </td>
+    </tr>
+  </table>
+</a>
 
 我曾在写博客的时候想起且写下这样的话。  
 - [《如果从梦中醒来，你还在做自己喜欢的事情》](http://mywifeasuna.top/index.php/archives/84/)  
@@ -23,20 +40,19 @@ My English is not very good.
 请务必提起你的情商！--> [《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)  
 我可不是什么好人。  
 
-### I'm kirito(MyWifeAsuna), or you can call me xiaoqin(小秦)
-#### Language
+### Language
 [![](https://img.shields.io/badge/-JAVA-red?style=flat&logo=java&logoColor=ffffff)](https://www.java.com/)  
 [![](https://img.shields.io/badge/-C%2FC%2B%2B-blue?style=flat&logo=c%2B%2B&logoColor=ffffff)](http://gcc.gnu.org/) [![](https://img.shields.io/badge/-Python-9cf?style=flat&logo=python&logoColor=ffffff)](https://www.python.org/) [![](https://img.shields.io/badge/-More-ightgreen?style=flat)](https://baike.baidu.com/item/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/9845131?fr=aladdin)
-#### Platform
+### Platform
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10) [![](https://img.shields.io/badge/Linux-CentOS-2376bc?style=flat-square&logo=linux&logoColor=ffffff)](https://www.centos.org/)
-#### IDE
+### IDE
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?style=flat-square&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
  [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/IDE-Visual%20Studio%202019-blue?style=flat-square&logo=visualstudio&logoColor=ffffff)](https://visualstudio.microsoft.com/zh-hans/vs/)
 
-###### 其他信息见文档末
-<img src="https://i.loli.net/2020/10/27/LXqMWHC9Aal5K7x.jpg" title="我老婆，就是放出来看一看，做个分割线，美化一下，没别的意思" alt="Rin" />  
-
-### 联系方式及其他
+<details>
+    <summary>Contact</summary>
+ 
+联系方式及其他  
 我已经说明的很足了，其他信息可在我的blog查看，或者从以下B站链接碰机遇逮我  
 
 [![](https://img.shields.io/badge/哔哩哔哩-超级小秦-0080ff?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/38080207)  
@@ -52,5 +68,4 @@ My English is not very good.
 一般情况下肯定是PC在线，手游模拟器、TX以及steam什么的。主机交流以及游戏好友请想办法联系到我询问好友位，在这里我就不发ID了  
 
 [![](https://img.shields.io/badge/Nintendo-Switch-ff0000?style=flat-square&logo=nintendoswitch&logoColor=ffffff)](https://www.nintendo.co.jp/) [![](https://img.shields.io/badge/Sony%20Computer%20Entertainment-Play%20Station%201%202%203%204%205%20Vita-0080ff?style=flat-square&logo=playstation&logoColor=ffffff)](https://www.playstation.com/ja-jp) [![](https://img.shields.io/badge/Steam-kirito-000000?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/MyWifeAsuna/)  
-
-以后或许可能会更新...
+</details>
