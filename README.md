@@ -5,6 +5,9 @@ My English is not very good.
 私も日本語が下手で。  
 所以请务必让我用中文叨逼叨。  
 
+![GitHub Snake Light](https://raw.githubusercontent.com/MyWifeAsuna/MyWifeAsuna/snack/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/MyWifeAsuna/MyWifeAsuna/snack/github-snake-dark.svg#gh-dark-mode-only)
+
 我曾在写博客的时候想起且写下这样的话。  
 - [《如果从梦中醒来，你还在做自己喜欢的事情》](http://mywifeasuna.top/index.php/archives/84/)  
 
