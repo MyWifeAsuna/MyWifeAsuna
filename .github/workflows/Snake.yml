@@ -1,6 +1,6 @@
 # 热力图贪吃蛇，那没有热力吃什么？
 
-name: generate-snake
+name: Snake
 
 on:
   # run automatically every 12 hours
