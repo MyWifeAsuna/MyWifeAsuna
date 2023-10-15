@@ -8,8 +8,8 @@ My English is not very good.
 
 <img src="https://raw.githubusercontent.com/MyWifeAsuna/MyWifeAsuna/main/88050672_p0_master1200.jpg" title="我老婆，就是放出来看一看，做个分割线，美化一下，没别的意思" alt="Rin" />  
 
-![GitHub Snake Light](https://raw.githubusercontent.com/MyWifeAsuna/MyWifeAsuna/snack/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/MyWifeAsuna/MyWifeAsuna/snack/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/MyWifeAsuna/MyWifeAsuna/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/MyWifeAsuna/MyWifeAsuna/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ### My GitHub Stats
 <a href="https://github.com/MyWifeAsuna">
